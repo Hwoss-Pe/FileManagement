@@ -1,0 +1,10 @@
+com\zhazhapan\efo\dao\sqlprovider\FileSqlProviderTest.class
+com\zhazhapan\efo\dao\AuthDAOTest.class
+com\zhazhapan\efo\dao\CategoryDAOTest.class
+com\zhazhapan\efo\service\CategoryServiceTest.class
+com\zhazhapan\efo\common\CommonTest.class
+com\zhazhapan\efo\config\SettingConfigTest.class
+com\zhazhapan\efo\dao\DownloadedDAOTest.class
+com\zhazhapan\efo\EfoApplicationTest.class
+com\zhazhapan\efo\dao\UserDAOTest.class
+com\zhazhapan\efo\dao\FileDAOTest.class
